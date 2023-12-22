@@ -37,4 +37,6 @@ Jak už jsem psal výšše, součástky včetně Arduino NANO mi ještě nepři�
 Zatím nikdo, ale věřím že pokud budu mít problém s programováním, tak mi podá Jakub Kučera pomocnou ruku. :)
 
 # ZDROJE:
-Zatím jsem zhlédnul všechny možný návrhy, ve finální verzi zde přidám ty, který doopravdy použiji a budou mi především nápomocny.
+Zatím jsem zhlédnul všechny možný návrhy, ve finální verzi zde vložím ty, který doopravdy použiji a budou mi především nápomocny.
+
+Zde je alespoň jeden, z kterýho jsem získal rozměry a inspiraci ohledně designových prvků: https://www.instructables.com/Counter-Strike-C4-Prop-1/
