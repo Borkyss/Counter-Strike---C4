@@ -19,3 +19,7 @@ a)	Hlavní část designového prvku jsou ´´balíčky C4´´, na kterém budou
 b)	Rozměry tří balíčků C4: 18 cm x 17 cm x 4,5 cm
 
 c)	Každý balíček poté omotám hnědým papírem z tašek.
+
+![karton](https://github.com/Borkyss/Counter-Strike---C4/assets/154630836/badc9c5a-ac04-4436-8a3a-30048f64ccad)
+
+#### SCHÉMA ZAPOJENÍ
