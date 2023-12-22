@@ -10,4 +10,5 @@ Jelikož jsem elektronické součástky nakoupil na internetu teprve tento týde
 
 ###### 1. MATERIÁL
 a)	Vizuální design: Karton, hnědé papírové tašky, šedá lepící páska, hodně lepidla, 9V baterie.
+
 b)	 Elektronika: Arduino NANO, I2Cx2 LCD Displej, membránová klávesnice, 
