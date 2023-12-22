@@ -22,4 +22,6 @@ c)	Každý balíček poté omotám hnědým papírem z tašek.
 
 ![karton](https://github.com/Borkyss/Counter-Strike---C4/assets/154630836/badc9c5a-ac04-4436-8a3a-30048f64ccad)
 
-#### SCHÉMA ZAPOJENÍ
+#### SCHÉMA ZAPOJENÍ:
+
+![Výstřižek](https://github.com/Borkyss/Counter-Strike---C4/assets/154630836/05304c3e-0fcc-433c-8be3-f0ba0a7638ea)
