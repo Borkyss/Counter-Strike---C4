@@ -1,4 +1,4 @@
-# Counter-Strike---C4
+# Counter-Strike---C4 - Litterbach
 
 # ZADÁNÍ:
 
