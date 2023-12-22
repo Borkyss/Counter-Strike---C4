@@ -16,7 +16,7 @@ b)	 Elektronika: Arduino NANO, I2Cx2 LCD Displej, membránová klávesnice, bzu�
 ###### 2. DESIGN KONSTRUKCE:
 a)	Hlavní část designového prvku jsou ´´balíčky C4´´, na kterém budou fungovat všechny ostatní komponenty. K tomu budu potřebovat tlustý karton, aby konstrukce projektu byla pevná.
 
-b)	Rozměry tří balíčků C4: 18 cm x 17 cm x 4,5 cm
+b)	Rozměry jednoho ze tří balíčků C4: 18 cm x 17 cm x 4,5 cm
 
 c)	Každý balíček poté omotám hnědým papírem z tašek.
 
