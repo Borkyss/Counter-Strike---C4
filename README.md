@@ -31,3 +31,6 @@ Jak už jsem psal výšše, součástky včetně Arduino NANO mi ještě nepři�
 
 # SPOLUPRACOVNÍCI:
 Zatím nikdo, ale věřím že pokud budu mít problém s programováním, tak mi podá Jakub Kučera pomocnou ruku. :)
+
+# ZDROJE:
+Zatím jsem zhlédnul všechny možný návrhy, ve finální verzi zde přidám ty, který doopravdy použiji a budou mi především nápomocny.
