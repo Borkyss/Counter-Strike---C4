@@ -25,3 +25,9 @@ c)	Každý balíček poté omotám hnědým papírem z tašek.
 #### SCHÉMA ZAPOJENÍ:
 
 ![Výstřižek](https://github.com/Borkyss/Counter-Strike---C4/assets/154630836/05304c3e-0fcc-433c-8be3-f0ba0a7638ea)
+
+#### AKTUÁLNÍ STAV PROJEKTU: 
+Jak už jsem psal výšše, součástky včetně Arduino NANO mi ještě nepřišlo, takže jsem se do toho ještě dosti neponořil. Každopádně mám už nějakýho návrhy, nákresy, nápady a jsem si vědom že jsem zde nezmínil všechny kritéria (např. páčkový vypínač, který bude zapínat displej, samotný program atd.). Po Vánocích bude po ruce hromada kartonových krabic, takže budu mít z čeho konstrukci vyrobit.
+
+#### SPOLUPRACOVNÍCI:
+Zatím nikdo, ale věřím že pokud budu mít problém s programováním, tak mi podá Jakub Kučera pomocnou ruku. :)
